@@ -67,7 +67,7 @@ h1 {font-size:60px;
 	margin-top: 10px;}
 header ul li{ float:right;
 		padding-left: 30px;
-		margin-top:44px;
+		/*margin-top:44px;*/
 		font-size:20px;}
 /* Here I am assigning properties to a selector - this alters my unordered list entries such as Blog */
 a{ text-decoration: none;
