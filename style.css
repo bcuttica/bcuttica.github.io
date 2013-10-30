@@ -50,50 +50,95 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 /* setting basic layout of body */
+
 body{width: 1024px;
 		margin: 0 auto;
-		font-family: Arial, sans-serif;}
-header {height: 70px;}
-h2{ font-size:40px;
-	text-align:center;
-	font-style:italic;
-}
-p { font-size:14px;
-		line-height:1.3em;
-		text-align: left;
-		margin-top: .75em;}
+		font-family: Arial, sans-serif;
+	}
+
+header{height: 70px;}
+
 h1 {font-size:60px;
 	float:left;
-	margin-top: 10px;}
+	margin-top: 10px;
+	}
+
 header ul li{ float:right;
 		padding-left: 30px;
 		margin-top:44px;
 		font-size:20px;}
+
+/* I gave class Title to a specific part of the site */
+.Title{ font-size:40px;
+	text-align:center;
+	font-style:italic;
+	}
+
+
 /* Here I am assigning properties to a selector - this alters my unordered list entries such as Blog */
+
 a{ text-decoration: none;
-	color:black;
+	color:blue;
 	font-weight:bold;}
-footer ul li{ float:left;
+
+footer ul li{ float:right;
 		padding-left: 30px;
 		margin:10px;
 		font-size:20px;
-}
+		}
+
+.SectionHead{text-align:center;
+			font-size:28px;
+			text-decoration: underline;
+			padding-top: 20px;
+			padding-bottom: 15px;
+	}
 
 .sideBar{float:right;
 		width:55%;
 		overflow:hidden;
-}
+		
+	}
+
+.sideBar p{font-size:14px;
+		line-height:1.3em;
+		text-align: left;
+		margin-top: .75em;
+		margin-left: 5em;	
+	}
 
 .contentArea{ float:left;
 		width:40%;
-		overflow:hidden;	
-}
+		overflow:hidden;
+		padding-bottom: 15px;
+
+	}
+
+.contentArea p{font-size:14px;
+		line-height:1.3em;
+		text-align: left;
+		margin-top: .75em;}
 
 .content{overflow:hidden;
 		clear:both;
-}
+	}
 		
 
+.SkillsList{ text-align:left;
+
+	}
+
+.StoryHead{text-align:center;
+			font-size:28px;
+			text-decoration: underline;
+			padding-top: 20px;
+			padding-bottom: 15px;
+	}
+
+.StoryArea p{font-size:14px;
+		line-height:1.3em;
+		text-align: left;
+		margin-top: .75em;}
 
 
 
