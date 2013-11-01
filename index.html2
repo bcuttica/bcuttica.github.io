@@ -1,14 +1,12 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
 		
 		<meta charset="utf-8" />  <!-- meta tag can be used for descriptions, etc. as well to help with SEO, etc-->
 		
-		<meta name="description" content="This page is about Brian Cuttica and Brian Cuttica's time as a Technical Marketing student at Startup Institute Chicago.">	
+		<meta name="description" content="Stories documenting Brian Cuttica's time as a Technical Marketing student at Startup Institute Chicago.">	
 
-		<title>Brian Cuttica - Technical Marketing Work at Startup Institute Chicago</title>
+		<title>Stories from Startup Institute Chicago</title>
 
 		<link rel="stylesheet" type="text/css" href="style.css">
 
@@ -17,88 +15,9 @@
 	<body > 
 			<header>
 
-				<h1> Brian Cuttica</h1>
+				<h1> Weekly Stories</h1>
 
-				<ul>
-
-					<li> <a href="mailto:bcuttica@gmail.com">Contact</a> 
-					</l1>
-
-					<li> <a href="http://www.linkedin.com/in/briancuttica">Resume</a> 
-					</l1>
-
-					<li> <a href="index.html.2">Weekly Stories</a> 
-					</l1>
-
-				</ul>
-
-			</header>
-
-			<hr>  <!-- effectively adds a line on page, a breaker-->
-
-			<img src="Assets/sunrise.jpg"/>
-			
-			<hr>
-			
-				<div class="Title">
-					<h2>Stories from Startup Institute Chicago</h2>
-				</div>	
-
-			<hr>
-			<hr>
-
-			<div class="content">
-
-				<div class="contentArea">
-
-					<div class="SectionHead">
-
-						<h2>How I got here<h2>
-
-					</div>
-				
-						<p> Brian is an entrepreneur looking to do something he cares about and make an impact.
-						</p>
-
-						<p> In year 6 of what ended up being an 8 year career in finance Brian started to get really interested in the idea of startups.  The prospect of working on something new, making an impact, and actually enjoying work was an appealing idea.
-						</p>
-
-						<p>Brian first got involved by investing in a couple of startups.  Eventually, he launched his own and worked on it as a side project.  Finally, in January of 2013 he left his finance job in order to focus full time on pursuing a new career.
-						</p>
-
-						<p>To help push this new career forward Brian enrolled in the Startup Institute in October 2013.  Brian is learning to be a full stack Technical Marketer while at SIC and would love to bring an anytical marketing approach to a startup he really believes in.
-						</p>
-						
-				</div>
-
-				<div class="sideBar">
-
-					<div class="SectionHead">
-
-						<h2>What I'm learning, updated weekly<h2>
-							
-					</div>
-
-						<div class="SkillsList">
-
-							<p> HTML and CSS - this page is my practice ground
-							</p>
-
-							<p>  SEO
-							</p>
-
-						</div>
-
-				</div>	
-
-					
-
-			</div>
-
-			<hr>
-			<hr>
-
-			<div class="Stories">
+				<div class="Stories">
 
 				<div class="StoryArea">
 
@@ -122,17 +41,6 @@
  
 						<p>These guys set a really high bar for future founders coming to visit us over the next 7 weeks - I can't wait.
 							<p>
-			<hr>
 
-
-			<footer>
-					<ul>
-							<li> <a href="https://twitter.com/cuttz40"><img src="/Assets/twitter.png"/></a>
-							</li>
-
-							<li><a href="http://www.linkedin.com/in/briancuttica"><img src="/Assets/linkedin.png"/></a>
-							</li>
-					</ul>	
-			</footer>	
-		</body>
-</html>
+					<hr>
+					<hr>
