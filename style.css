@@ -53,68 +53,78 @@ table {
 
 body{width: 1024px;
 		margin: 0 auto;
-		font-family: Arial, sans-serif;
+		font-family: Helvetica, sans-serif;
+		background-color: #F0F8FF;
+		color:black;
 	}
 
 header{height: 70px;}
 
-h1 {font-size:60px;
+h1 {font-size:32px;
 	float:left;
 	margin-top: 10px;
+	padding-top: 25px;
+	color: black;
 	}
 
 header ul li{ float:right;
 		padding-left: 30px;
-		margin-top:44px;
-		font-size:20px;}
+		margin-top:50px;
+		font-size:18px;
+	}
 
-/* I gave class Title to a specific part of the site */
-.Title{ font-size:40px;
+
+.Title{ font-size:30px;
 	text-align:center;
-	font-style:italic;
+	font-style:none;
+	color:black;
+	padding-top: 20px;
 	}
 
 
 /* Here I am assigning properties to a selector - this alters my unordered list entries such as Blog */
 
 a{ text-decoration: none;
-	color:blue;
-	font-weight:bold;}
+	color:black;
+	font-weight:bold;
+	font-style:italic;
+
+	}
 
 footer ul li{ float:right;
 		padding-left: 30px;
 		margin:10px;
 		font-size:20px;
-		}
-
-.SectionHead{text-align:center;
-			font-size:28px;
-			text-decoration: underline;
-			padding-top: 20px;
-			padding-bottom: 15px;
 	}
+
 
 .sideBar{float:right;
-		width:55%;
+		width:40%;
 		overflow:hidden;
-		
-	}
-
-.sideBar p{font-size:14px;
 		line-height:1.3em;
 		text-align: left;
 		margin-top: .75em;
 		margin-left: 5em;	
+		padding-bottom: 10px;
+		padding-top: 20px;
+		
 	}
+
+/*.sideBar p{font-size:14px;
+		line-height:1.3em;
+		text-align: left;
+		margin-top: .75em;
+		margin-left: 5em;	
+	} */
 
 .contentArea{ float:left;
-		width:40%;
+		width:50%;
 		overflow:hidden;
 		padding-bottom: 15px;
+		padding-top: 20px;
+	} 
 
-	}
-
-.contentArea p{font-size:14px;
+.contentArea p{ font-size:18px;
 		line-height:1.3em;
 		text-align: left;
 		margin-top: .75em;}
